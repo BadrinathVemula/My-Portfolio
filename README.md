@@ -44,7 +44,7 @@ portfolio/
 
 ## 🔗 Live Demo
 
-[View Portfolio](https://your-link.com)
+[View Portfolio](https://badrinathvemula.github.io/My-Portfolio/)
 
 ---
 
