@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 Personal Portfolio Website
 
 Modern responsive developer portfolio built using HTML, CSS.
@@ -68,3 +69,6 @@ I am a Computer Science student and aspiring software developer focused on front
 - Project filtering
 - More animations
 - Deployment optimization
+=======
+completed building protfolio website
+>>>>>>> 05d7372bb677cba76b8b44c9461bad01fc6b5bdd
